@@ -8,7 +8,9 @@ Express
 MySQL
 
 ## 構成要素
-・application:Application
+・application:Application Business Rules 
+・domain
+・infrastructure: Frameworks & Driver
 
 ## 参照
 https://blog.spacemarket.com/code/clean-architecture-node/  
